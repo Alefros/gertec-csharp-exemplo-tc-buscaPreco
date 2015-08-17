@@ -1,0 +1,28 @@
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.exe.config
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.exe
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.pdb
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.Properties.Resources.resources
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.csproj.GenerateResource.Cache
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.exe
+C:\Users\roliveira\Documents\Visual Studio 2012\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.pdb
+C:\Users\roliveira\Desktop\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.exe.config
+C:\Users\roliveira\Desktop\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.exe
+C:\Users\roliveira\Desktop\Nova pasta\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.pdb
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.exe.config
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.exe
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.pdb
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.exe
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.pdb
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.Properties.Resources.resources
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.csproj.GenerateResource.Cache
+C:\Users\aloliveira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.Form1.resources
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.exe.config
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.exe
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Aplicação_TC506.pdb
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.Form1.resources
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.Properties.Resources.resources
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.csproj.GenerateResource.Cache
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.exe
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.pdb
+C:\Users\aloliveira\Desktop\DLL TC501GER\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Aplicação_TC506.csprojResolveAssemblyReference.cache
